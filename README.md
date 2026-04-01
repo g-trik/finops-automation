@@ -2,8 +2,6 @@
 An automated financial operations system powered by n8n. Runs validation rules against unprocessed invoices and provides a daily brief of the most relevant developments in the fintech landscape. Built to reduce manual overhead and establish a mini audit trail. 
 # FinOps: AI Invoice validation & Fintech signals
 
-> An automated financial operations system powered by n8n. Runs validation rules against unprocessed invoices and provides a daily brief of the most relevant developments in the fintech landscape. Built to reduce manual overhead and establish a mini audit trail.
-
 ![n8n](https://img.shields.io/badge/n8n-workflow-orange) ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o-green) ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Google Sheets](https://img.shields.io/badge/Google-Sheets-brightgreen) ![Docker](https://img.shields.io/badge/Docker-required-blue)
 
 ---
