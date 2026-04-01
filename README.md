@@ -89,7 +89,7 @@ Schedule Trigger
 ## Screenshots
 
 ### Invoice Processing Pipeline
-![Invoice Pipeline](architecture/invoice_processing_canvas.png)
+![Invoice Pipeline](architecture/fintech_signals_canvas.png)
 
 ### Invoice Processing Google Sheet
 ![Invoice Log](results/screenshots/invoice_processing/invoice_processing_excel.png)
@@ -98,7 +98,7 @@ Schedule Trigger
 ![Invoice Summary Email](results/screenshots/invoice_processing/invoice_processing_gmail.png)
 
 ### Fintech Signals
-![Fintech Signals](architecture/fintech_signals_canvas.png)
+![Fintech Signals](architecture/invoice_processing_canvas.png)
 
 ### Fintech Signals Google Sheet
 ![Invoice Log](results/screenshots/fintech_signals/fintech_signals_excel.png)
